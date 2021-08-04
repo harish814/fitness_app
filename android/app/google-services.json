@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "876357914373",
+    "project_id": "fitnessapp-dbaaf",
+    "storage_bucket": "fitnessapp-dbaaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876357914373:android:ad29580296c6c99ecab16c",
+        "android_client_info": {
+          "package_name": "com.example.clgproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876357914373-kkbln0n7d65l7uvfs2nn4sqm42s7tft5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clgproject",
+            "certificate_hash": "bfd0c9c9d636df5aab65a8548269968a7cd10a51"
+          }
+        },
+        {
+          "client_id": "876357914373-gl9mcdkfc5ihtb8hkavv6h21b9f5nkkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_9VQE-adpkTrxRqb9NgO6pmGD7Vs18kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876357914373-gl9mcdkfc5ihtb8hkavv6h21b9f5nkkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
